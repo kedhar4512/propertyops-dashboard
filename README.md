@@ -9,7 +9,7 @@ This repo is a **professional** portfolio project :
 Because a complete Rails app contains many generated files, this repo uses a **repeatable generator script**
 that creates the Rails API and wires in the provided React front-end.
 
-## What you’ll build
+## What I built
 A small property-management workflow:
 - Tenants (CRUD)
 - Units (CRUD)
@@ -21,7 +21,6 @@ A small property-management workflow:
 - Ruby 3.1+ and Bundler
 - Rails 7+
 - Node 18+
-- (Optional) Postgres. By default, the Rails API uses **SQLite** for easiest setup.
 
 ## Quick start (Mac/Linux/WSL)
 ```bash
