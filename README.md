@@ -1,6 +1,6 @@
 # PropertyOps (Full‑Stack) — React + Rails API + SQL
 
-This repo is a **professional, interview-ready** portfolio project based on the **Property Matrix** entry-level role:
+This repo is a **professional** portfolio project based on the  entry-level role:
 - Build/modify front-end features (React + HTML/CSS/JS)
 - Troubleshoot/debug and document
 - Work with SQL-backed data
@@ -63,15 +63,3 @@ Open the UI:
 
 ## Seeds
 The generator loads sample data (tenants, units, requests, payments).
-
-## What to say in interviews
-- Why you chose component structure (pages/components/services)
-- How you handled state, form validation, and error states
-- How you debugged API + UI integration
-- How you documented endpoints and added seeds for reproducibility
-
-## Suggested “resume bullets” (copy/paste)
-- Built a full-stack property operations app using React and a RESTful API backed by SQL, enabling tenant, unit, payment, and maintenance workflows.
-- Implemented reusable UI components, form validation, and search/filter features to streamline day-to-day property management tasks.
-- Designed relational data models and REST endpoints; debugged integration issues using request logging and browser developer tools.
-- Documented implementation details and provided seeded demo data to support reproducible local setup.
