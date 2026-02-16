@@ -1,10 +1,10 @@
 # PropertyOps (Full‑Stack) — React + Rails API + SQL
 
-This repo is a **professional** portfolio project based on the  entry-level role:
+This repo is a **professional** portfolio project :
 - Build/modify front-end features (React + HTML/CSS/JS)
 - Troubleshoot/debug and document
 - Work with SQL-backed data
-- Write tests (automation is in Project 2)
+- Write tests 
 
 Because a complete Rails app contains many generated files, this repo uses a **repeatable generator script**
 that creates the Rails API and wires in the provided React front-end.
